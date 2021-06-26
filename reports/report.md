@@ -16,6 +16,7 @@ The instance of ATDx used to analyze your projects provides an overview of the a
 * **lockin**: other description
 * **naming**: Naming
 * **constant**: Constant
+
 For each project, the dimensions assume a value between 0 and 5, where 0 denotes minimum architectural debt of the project in that dimension, and 5 maximum architectural debt.
 In the reminder of this report, we give for the analysed project the following:
 1. A radar chart for the project
